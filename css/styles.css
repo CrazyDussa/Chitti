@@ -1,0 +1,52 @@
+.photo img{
+    border-radius: 50%;
+    height: 200px;
+}
+.title{
+    display: block;
+    margin: 10px auto;
+}
+.wishes h2{
+    font-family: "Playball";
+    display: block;
+    font-size: 60px;
+    text-align: center;
+    color: #F257A0;
+}
+.wishes h4{
+    font-family: "Playball";
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(38, 140, 209);
+}
+.wishes h1{
+    font-family: "Luckiest Guy";
+    display: block;
+    font-size: 60px;
+    color:#D93D66;
+    text-align: center;
+}
+.main-container{
+    background:#e0dfd6;
+    border-radius: 10px;
+    margin: 10px;
+}
+.wishes p{
+    font-family: "Pacifico";
+    font-size: 20px;
+    color:#f0890c;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
+.wishes em{
+    color: rgb(16, 144, 16);
+    font-size: 30px;
+}
+#mom-dad{
+    color:rgb(224, 18, 204);
+}
+#names {
+    color: rgb(9, 111, 9);
+}
